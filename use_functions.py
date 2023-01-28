@@ -91,7 +91,7 @@ def bank_balance():  # 4. баланс
 
 def average_check():  # 5. средний чек
     if len(user_purchase) > 0:
-        print('🛒🛒🛒📝📝📝📝Средний чек = ', round(sum(user_purchase.values()) / len(user_purchase), 1))
+        print('🛒 Средний чек = ', round(sum(user_purchase.values()) / len(user_purchase), 1))
     else:
         print('Еще не было покупок!')
 
