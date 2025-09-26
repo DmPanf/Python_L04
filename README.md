@@ -1,1 +1,1 @@
-## 
+## YOLO11_TgBot_Object_Detection_Segmentation_Aiogram
